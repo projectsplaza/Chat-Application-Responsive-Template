@@ -3,3 +3,6 @@ Hello World, This is chat application responsive template built with bootstrap 4
 
 # Project Url
 http://demo.projectsplaza.com/chat/
+
+# Screenshot
+![Screenshot](https://github.com/projectsplaza/Chat-Application-Responsive-Template/blob/master/screenshot.png)
